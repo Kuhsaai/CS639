@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MidtermQasimMuhammad</string>
+    <string name="invalid_liters_message">Please enter a valid number of liters</string>
+    resultTextView.text = getString(R.string.invalid_liters_message)
+</resources>
